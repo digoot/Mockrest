@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Mockrest_Tests' do
+  pod 'Mockrest', :path => '../'
+  
+  
+end
