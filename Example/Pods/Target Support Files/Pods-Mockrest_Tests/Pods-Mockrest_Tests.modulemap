@@ -1,0 +1,6 @@
+framework module Pods_Mockrest_Tests {
+  umbrella header "Pods-Mockrest_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

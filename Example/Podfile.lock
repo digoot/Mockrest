@@ -1,0 +1,16 @@
+PODS:
+  - Mockrest (0.1.0)
+
+DEPENDENCIES:
+  - Mockrest (from `../`)
+
+EXTERNAL SOURCES:
+  Mockrest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Mockrest: 159a28f14a9fb775d34a3900693dc756acb6a898
+
+PODFILE CHECKSUM: c87ba0ec286a1f7cfa28b90218cedbe0f51dc541
+
+COCOAPODS: 1.8.4

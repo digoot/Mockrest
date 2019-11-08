@@ -1,0 +1,22 @@
+{
+  "name": "Mockrest",
+  "version": "0.1.0",
+  "summary": "A short description of Mockrest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/digoot/Mockrest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "digoot": "dotero@cleventy.com"
+  },
+  "source": {
+    "git": "https://github.com/digoot/Mockrest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Mockrest/Classes/**/*"
+}

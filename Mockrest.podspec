@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'Mockrest'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of Mockrest.'
+  s.summary          = 'This library makes mock REST responses'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,17 +18,18 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+This library makes mocks from structs previously made, and return as JSON data. Combined with Mockingjay makes application tests easy. It has functions to generate data to fill these structures. Doing that, the test suites are more randomly, like real life.
                        DESC
 
   s.homepage         = 'https://github.com/digoot/Mockrest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'digoot' => 'dotero@cleventy.com' }
+  s.author           = { 'digoot' => 'digoot@gmail.com' }
   s.source           = { :git => 'https://github.com/digoot/Mockrest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
+  s.swift_version = '5'
 
   s.source_files = 'Mockrest/Classes/**/*'
   

@@ -1,0 +1,6 @@
+framework module Mockrest {
+  umbrella header "Mockrest-umbrella.h"
+
+  export *
+  module * { export * }
+}
