@@ -22,7 +22,7 @@ pod 'Mockrest'
 
 ## Author
 
-digoot, dotero@cleventy.com
+Diego Otero - let email = digoot + "at" + gmail + ".com"
 
 ## License
 
