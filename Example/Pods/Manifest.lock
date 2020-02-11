@@ -1,15 +1,22 @@
 PODS:
-  - Mockrest (0.1.0)
+  - Fakery (4.1.1)
+  - Mockrest (0.1.0):
+    - Fakery
 
 DEPENDENCIES:
   - Mockrest (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Fakery
 
 EXTERNAL SOURCES:
   Mockrest:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Mockrest: 159a28f14a9fb775d34a3900693dc756acb6a898
+  Fakery: d3380c4aa1efe7631c0831d7e26aa9db4491f014
+  Mockrest: c55bac56d9ee6c18cc46883864a4e55bbbd260f2
 
 PODFILE CHECKSUM: c87ba0ec286a1f7cfa28b90218cedbe0f51dc541
 
