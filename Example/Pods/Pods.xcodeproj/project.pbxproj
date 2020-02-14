@@ -13,7 +13,6 @@
 		0EA96A43CA91298A3DB669820DA1421A /* Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6082BD7F1ED2E5AEBE14723B86DF1A98 /* Address.swift */; };
 		1406BD4DBECE4F101794629D8226382B /* Team.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C29F8E55CE2D193CC9908E9CE12D60 /* Team.swift */; };
 		180997504A083CE31B2BEDCE42A0ADB3 /* Cat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AE96C44126183FF8A440018D8A20212 /* Cat.swift */; };
-		2213E948B24171488F76E38C78332A85 /* Mockrest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537F3C3BCDA05D58EA80F4B93CA6E184 /* Mockrest.swift */; };
 		23A6E3633D91CB899729975595158B4E /* Provider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B6448DAF0524D4D66EEB511C79C2811 /* Provider.swift */; };
 		2547C783B15F790163A1CC66CCC85FAD /* zh-CN.json in Resources */ = {isa = PBXBuildFile; fileRef = E3017D3723CF4A86BD85465CAED1722B /* zh-CN.json */; };
 		25C4931A6EE9D239A0BFD57B812F6F50 /* fr.json in Resources */ = {isa = PBXBuildFile; fileRef = 75DDCD777914BC0E00B468BC58275827 /* fr.json */; };
@@ -24,22 +23,22 @@
 		30DFF6EB29644AE0D4A6D7D1166700B1 /* ProgrammingLanguage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3486BC1E7DDDDB15768FE207E9DBE08C /* ProgrammingLanguage.swift */; };
 		34928EE305C80CB318ECDCEED9974F0F /* Pods-Mockrest_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C8AA83635B6DC2F9F87A6A542A9573E0 /* Pods-Mockrest_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3D604436075A07744358FB62403350A5 /* ru.json in Resources */ = {isa = PBXBuildFile; fileRef = 23C92DF117D959048BC22F5CBF3070B1 /* ru.json */; };
-		3E4B95060557F71AF1553F0DF44047D0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFC353BEB8F13D31EA1A5CB69CEA6765 /* Foundation.framework */; };
 		40BD745A11225A3D0F6F30DD5D8B82A0 /* Vehicle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7042579C2302CE96F864268AB447615B /* Vehicle.swift */; };
 		4467F70948545425C74933A8C9E56431 /* nb-NO.json in Resources */ = {isa = PBXBuildFile; fileRef = 1B2B4042AC9238E31C9ACF4C51F18D92 /* nb-NO.json */; };
 		4B186868093F6DD6CA61DBB41A437717 /* de-CH.json in Resources */ = {isa = PBXBuildFile; fileRef = FAE7C7860C891F45579E0F1583AE8843 /* de-CH.json */; };
-		4B4F7163B99BCD96C680323519495740 /* Fakery.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1B1C6A169894E0D32E5E49C148576C9 /* Fakery.framework */; };
 		4FD723AF1B60CF7EA9882C119C786DA8 /* de.json in Resources */ = {isa = PBXBuildFile; fileRef = 089FF4783D3FA3934657C4B0CCE49FBC /* de.json */; };
 		5C4B18DCFD2A1D49B569E2ABA2B94B01 /* pl.json in Resources */ = {isa = PBXBuildFile; fileRef = 2130A8738688C641B8BF817B6BCFD9CC /* pl.json */; };
+		6795922730FBFE18C8BEF5E539DB357F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFC353BEB8F13D31EA1A5CB69CEA6765 /* Foundation.framework */; };
 		689D2C1B2B119C554EC36C00F502083B /* en-TEST.json in Resources */ = {isa = PBXBuildFile; fileRef = 738596DB28A824DD3C782B4E8E5F6F0F /* en-TEST.json */; };
 		6A0E3458AC22F1EEF06A1FDEC9947044 /* Pods-Mockrest_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B3C7665CE04637D3AB73E4091AA12AE0 /* Pods-Mockrest_Tests-dummy.m */; };
 		6E2A166C41C1FBFFFCDEEE046021889A /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 456A0ACD65FC3686FAB7B9016A012F58 /* Config.swift */; };
 		79F37AC20E3634B61302CF45E49D5681 /* Company.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E3CF7EF499B84CCB1C2536351C4012A /* Company.swift */; };
 		820F2453049162C964AE1CDE73D4CE42 /* en-GB.json in Resources */ = {isa = PBXBuildFile; fileRef = 6610DB1074E34B9A42408D03A2C0BED4 /* en-GB.json */; };
 		864D288BF8D0A267E549B126BCA3A320 /* es.json in Resources */ = {isa = PBXBuildFile; fileRef = 1CD033BE07ED0F79B116EB5F1DEABB2F /* es.json */; };
-		8B31CE8C6B94DEA00D63DB9837C4BD51 /* Mockrest-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D7105A281B9359762A7C13B4C030126B /* Mockrest-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8C462E81A22528482D7BF8FD8A7A5A69 /* App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9483C56509FB1DA6039192638DC063B9 /* App.swift */; };
 		8CD37F7546AEEB500F8B1D4B4DF8EB2E /* Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E13B6FA019EF7B8426830E52408DFF /* Number.swift */; };
+		905604120BC7B3F8D5BE9907320FAFAF /* Mockrest-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9151BF2CA6FEA0AD67EBCC117EBB18B5 /* Mockrest-dummy.m */; };
+		97E2C5C49A186C0A7E7BCA47585D49D8 /* Definitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1296C0C887591AE4B756F41991232A1 /* Definitions.swift */; };
 		9F4D10C157C0170C84CBDEE8B62EC21E /* Faker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D3BA035D011E97327B468B5827B5B5 /* Faker.swift */; };
 		A0D74093B021926154480923A43ED339 /* nl.json in Resources */ = {isa = PBXBuildFile; fileRef = F891622C8FF60245D477AA6729522CA2 /* nl.json */; };
 		A1DF0A29753CD27974C67B1316468B29 /* en-US.json in Resources */ = {isa = PBXBuildFile; fileRef = 63F6F7F510BEE156DB9CE0C1FA54DCC9 /* en-US.json */; };
@@ -50,6 +49,7 @@
 		AC98F68D4CA75FC9C5028041052FB0B1 /* Business.swift in Sources */ = {isa = PBXBuildFile; fileRef = 295E7599656300583740A1528A4D7344 /* Business.swift */; };
 		AD80013BB8EFC520EA884291854D40A2 /* Internet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E5C5519CB069EB5A4515C0E82B32F5F /* Internet.swift */; };
 		B28A154574B13368CD1ECA3A5719B4A9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFC353BEB8F13D31EA1A5CB69CEA6765 /* Foundation.framework */; };
+		B8E472975EE7A796F4A03EEAF83455DB /* Mockrest-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 48D56EBA91E12055269314004559D4BD /* Mockrest-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C33626E14A1158F96C6468599ABC6E3D /* Hobbit.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AD1308EDE891A012B33821DE69BBD7 /* Hobbit.swift */; };
 		C468D0329C98428F470E52BB5299EAB1 /* ja.json in Resources */ = {isa = PBXBuildFile; fileRef = B1101470D5066E1FDB728A7739ACF996 /* ja.json */; };
 		C4ECA5834469F97878D9530851CC0BFC /* Zelda.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2390925191DFBF3A7986C1ADD20C1B39 /* Zelda.swift */; };
@@ -63,6 +63,8 @@
 		D41F4FAFDC08904BC156184EEC4A8A88 /* House.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AF56230973E5B94A7D4481F6193F0D /* House.swift */; };
 		D626B1D62AC351DA75071409D7AD98ED /* en-IND.json in Resources */ = {isa = PBXBuildFile; fileRef = AF9A14698E786BE666BCFB04788A9CC8 /* en-IND.json */; };
 		D8B0249EF02351F1511E513E9E4AD453 /* Lorem.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDA7527F50CA5BBDDDB729179559C6D5 /* Lorem.swift */; };
+		D9087A545791E6C1DF5CCFB63DEDC2BA /* Fakery.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1B1C6A169894E0D32E5E49C148576C9 /* Fakery.framework */; };
+		E3EF8728099EE70BF91319F78D172454 /* Mockrest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0CE60841955497356D74653B4CE0B6E /* Mockrest.swift */; };
 		E55BB5D860BFE1667A3C686353768CBE /* sk.json in Resources */ = {isa = PBXBuildFile; fileRef = 0598AAFB821443F9EB241AC377287DA1 /* sk.json */; };
 		E6EE5CA0B11B66E55BF9AF24C81B8CAB /* en.json in Resources */ = {isa = PBXBuildFile; fileRef = 2C1493AB78840506A32B5812464C0A49 /* en.json */; };
 		E81DDB0F9359CCF7F51CCDBCD3DC6501 /* en-CA.json in Resources */ = {isa = PBXBuildFile; fileRef = EDD3C4D8E605C3EB8775D96D7C2155E2 /* en-CA.json */; };
@@ -71,25 +73,23 @@
 		EAE701396CDCFEF176E5FBA79D215B03 /* Fakery-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 571B476E31D3C0707AE6CEFB682C5E45 /* Fakery-dummy.m */; };
 		ED2B68C445528AAD9A8920EDBCD3A0DA /* Faker.bundle in Resources */ = {isa = PBXBuildFile; fileRef = FB9EDEF446E3F7D484CA4B8085AFEAA6 /* Faker.bundle */; };
 		EE00E0356E14FAE6B1290DA9B98ABDC8 /* uk.json in Resources */ = {isa = PBXBuildFile; fileRef = DAFCB10F5AF65B587F15C3E6872C021D /* uk.json */; };
-		F1474BE223F72FF300711D7D /* Definitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1474BE123F72FF300711D7D /* Definitions.swift */; };
 		F1986D6FA8F649B0A840293AD1B5228D /* de-AT.json in Resources */ = {isa = PBXBuildFile; fileRef = 7219035ECB8FE6DE875824857F04A5A6 /* de-AT.json */; };
-		F212E0791E9C614FCBAF79A0F9C68753 /* Mockrest-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C4E35E3B2C85A8277510B36B69BF18EA /* Mockrest-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		0C7654C3421AC4AC5B5E07359027DEB7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0E0176CCA7C8C85C89BC1E45EA82145D;
+			remoteInfo = Fakery;
+		};
 		1ADB09BC6226D513DD0B75A99AE6BDB0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 296DD0D266B5C09623F51AC5B8ACCB76;
 			remoteInfo = Mockrest;
-		};
-		49757E99364D4E7714F8913205958BCD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 0E0176CCA7C8C85C89BC1E45EA82145D;
-			remoteInfo = Fakery;
 		};
 		CE146209DC10B6629C65EF9F0E5E0C07 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -108,93 +108,93 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0598AAFB821443F9EB241AC377287DA1 /* sk.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = sk.json; path = Resources/Locales/sk.json; sourceTree = "<group>"; };
-		089FF4783D3FA3934657C4B0CCE49FBC /* de.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = de.json; path = Resources/Locales/de.json; sourceTree = "<group>"; };
+		0598AAFB821443F9EB241AC377287DA1 /* sk.json */ = {isa = PBXFileReference; includeInIndex = 1; name = sk.json; path = Resources/Locales/sk.json; sourceTree = "<group>"; };
+		089FF4783D3FA3934657C4B0CCE49FBC /* de.json */ = {isa = PBXFileReference; includeInIndex = 1; name = de.json; path = Resources/Locales/de.json; sourceTree = "<group>"; };
 		09DF312CD3E714DB8A14161AB1EF5EE2 /* Generator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Generator.swift; path = Sources/Fakery/Generators/Generator.swift; sourceTree = "<group>"; };
-		135B9EA8498D8BD288DE862D407255AE /* Fakery.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Fakery.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		135B9EA8498D8BD288DE862D407255AE /* Fakery.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Fakery.framework; path = Fakery.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		19886131AF69670FF2460D6FFF1E97AE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		1B21E41043ED9717100BD3048B83B7A3 /* Fakery.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Fakery.xcconfig; sourceTree = "<group>"; };
-		1B2B4042AC9238E31C9ACF4C51F18D92 /* nb-NO.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = "nb-NO.json"; path = "Resources/Locales/nb-NO.json"; sourceTree = "<group>"; };
-		1CD033BE07ED0F79B116EB5F1DEABB2F /* es.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = es.json; path = Resources/Locales/es.json; sourceTree = "<group>"; };
-		1F8F75DBB4F111E8AF20AC77683D8A02 /* it.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = it.json; path = Resources/Locales/it.json; sourceTree = "<group>"; };
-		2130A8738688C641B8BF817B6BCFD9CC /* pl.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = pl.json; path = Resources/Locales/pl.json; sourceTree = "<group>"; };
+		1B2B4042AC9238E31C9ACF4C51F18D92 /* nb-NO.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "nb-NO.json"; path = "Resources/Locales/nb-NO.json"; sourceTree = "<group>"; };
+		1CD033BE07ED0F79B116EB5F1DEABB2F /* es.json */ = {isa = PBXFileReference; includeInIndex = 1; name = es.json; path = Resources/Locales/es.json; sourceTree = "<group>"; };
+		1F8F75DBB4F111E8AF20AC77683D8A02 /* it.json */ = {isa = PBXFileReference; includeInIndex = 1; name = it.json; path = Resources/Locales/it.json; sourceTree = "<group>"; };
+		2130A8738688C641B8BF817B6BCFD9CC /* pl.json */ = {isa = PBXFileReference; includeInIndex = 1; name = pl.json; path = Resources/Locales/pl.json; sourceTree = "<group>"; };
+		217C8A24CE0A04C5BD9E6F953D9242EF /* Mockrest-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Mockrest-Info.plist"; sourceTree = "<group>"; };
 		21C8F54D8AA0CE9D2CE45961EE5F8030 /* PhoneNumber.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhoneNumber.swift; path = Sources/Fakery/Generators/PhoneNumber.swift; sourceTree = "<group>"; };
 		2390925191DFBF3A7986C1ADD20C1B39 /* Zelda.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Zelda.swift; path = Sources/Fakery/Generators/Zelda.swift; sourceTree = "<group>"; };
-		23C92DF117D959048BC22F5CBF3070B1 /* ru.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = ru.json; path = Resources/Locales/ru.json; sourceTree = "<group>"; };
+		23C92DF117D959048BC22F5CBF3070B1 /* ru.json */ = {isa = PBXFileReference; includeInIndex = 1; name = ru.json; path = Resources/Locales/ru.json; sourceTree = "<group>"; };
 		295E7599656300583740A1528A4D7344 /* Business.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Business.swift; path = Sources/Fakery/Generators/Business.swift; sourceTree = "<group>"; };
-		2C1493AB78840506A32B5812464C0A49 /* en.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = en.json; path = Resources/Locales/en.json; sourceTree = "<group>"; };
-		3246D770B2A6ED8FFCC32AFA4A04905F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		2C1493AB78840506A32B5812464C0A49 /* en.json */ = {isa = PBXFileReference; includeInIndex = 1; name = en.json; path = Resources/Locales/en.json; sourceTree = "<group>"; };
 		33AF56230973E5B94A7D4481F6193F0D /* House.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = House.swift; path = Sources/Fakery/Generators/House.swift; sourceTree = "<group>"; };
 		3486BC1E7DDDDB15768FE207E9DBE08C /* ProgrammingLanguage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ProgrammingLanguage.swift; path = Sources/Fakery/Generators/ProgrammingLanguage.swift; sourceTree = "<group>"; };
 		3D5EE77415710B29FACDC5F08DB18078 /* Pods-Mockrest_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Mockrest_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		44D5D17CA4072EADC39BCC0FA804888F /* Pods-Mockrest_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Mockrest_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		456A0ACD65FC3686FAB7B9016A012F58 /* Config.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Config.swift; path = Sources/Fakery/Config.swift; sourceTree = "<group>"; };
-		47C19E7C280932DE796E67B30EA2B8AC /* Mockrest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Mockrest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		47C19E7C280932DE796E67B30EA2B8AC /* Mockrest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Mockrest.framework; path = Mockrest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		48D56EBA91E12055269314004559D4BD /* Mockrest-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Mockrest-umbrella.h"; sourceTree = "<group>"; };
 		4AE96C44126183FF8A440018D8A20212 /* Cat.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Cat.swift; path = Sources/Fakery/Generators/Cat.swift; sourceTree = "<group>"; };
+		4B9256B95DF975B8F0EBB39A4148660E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		4E3CF7EF499B84CCB1C2536351C4012A /* Company.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Company.swift; path = Sources/Fakery/Generators/Company.swift; sourceTree = "<group>"; };
 		51BC6558B6A218BC2A1FB8241B5F972A /* Fakery-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Fakery-umbrella.h"; sourceTree = "<group>"; };
-		537F3C3BCDA05D58EA80F4B93CA6E184 /* Mockrest.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Mockrest.swift; path = Mockrest/Classes/Mockrest.swift; sourceTree = "<group>"; };
 		571B476E31D3C0707AE6CEFB682C5E45 /* Fakery-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Fakery-dummy.m"; sourceTree = "<group>"; };
 		5AEF2A702E7CF9065A02C9698B2C466D /* Pods-Mockrest_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Mockrest_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		5C5B1EC8DFD223521D4556E9284D1761 /* Mockrest-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Mockrest-Info.plist"; sourceTree = "<group>"; };
+		5E9253A70D98A484985D97F5BF9CACBA /* Mockrest.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Mockrest.modulemap; sourceTree = "<group>"; };
 		5ED8D0A22C631CB511E2B96BA33619FA /* Fakery-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Fakery-prefix.pch"; sourceTree = "<group>"; };
 		6082BD7F1ED2E5AEBE14723B86DF1A98 /* Address.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Address.swift; path = Sources/Fakery/Generators/Address.swift; sourceTree = "<group>"; };
-		63F6F7F510BEE156DB9CE0C1FA54DCC9 /* en-US.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = "en-US.json"; path = "Resources/Locales/en-US.json"; sourceTree = "<group>"; };
+		63F6F7F510BEE156DB9CE0C1FA54DCC9 /* en-US.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-US.json"; path = "Resources/Locales/en-US.json"; sourceTree = "<group>"; };
 		6534F24735B7F056F10536B2AF91A024 /* Bank.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Bank.swift; path = Sources/Fakery/Generators/Bank.swift; sourceTree = "<group>"; };
-		6610DB1074E34B9A42408D03A2C0BED4 /* en-GB.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = "en-GB.json"; path = "Resources/Locales/en-GB.json"; sourceTree = "<group>"; };
-		6820CB33F7E3FB3C6D025E7AD3A93654 /* Pods_Mockrest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Mockrest_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6610DB1074E34B9A42408D03A2C0BED4 /* en-GB.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-GB.json"; path = "Resources/Locales/en-GB.json"; sourceTree = "<group>"; };
+		6820CB33F7E3FB3C6D025E7AD3A93654 /* Pods_Mockrest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Mockrest_Tests.framework; path = "Pods-Mockrest_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E737C6D9742C3E09EFE77B261FD5FCE /* Ham.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Ham.swift; path = Sources/Fakery/Generators/Ham.swift; sourceTree = "<group>"; };
 		6E841498D7451850CE1D150F7844A914 /* ResourceBundle-Faker-Fakery-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-Faker-Fakery-Info.plist"; sourceTree = "<group>"; };
 		7042579C2302CE96F864268AB447615B /* Vehicle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Vehicle.swift; path = Sources/Fakery/Generators/Vehicle.swift; sourceTree = "<group>"; };
-		7219035ECB8FE6DE875824857F04A5A6 /* de-AT.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = "de-AT.json"; path = "Resources/Locales/de-AT.json"; sourceTree = "<group>"; };
+		7219035ECB8FE6DE875824857F04A5A6 /* de-AT.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "de-AT.json"; path = "Resources/Locales/de-AT.json"; sourceTree = "<group>"; };
 		7331C6CFFAB4F907AE6EE90071FD0F26 /* Pods-Mockrest_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Mockrest_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		738596DB28A824DD3C782B4E8E5F6F0F /* en-TEST.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = "en-TEST.json"; path = "Resources/Locales/en-TEST.json"; sourceTree = "<group>"; };
-		75DDCD777914BC0E00B468BC58275827 /* fr.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = fr.json; path = Resources/Locales/fr.json; sourceTree = "<group>"; };
+		738596DB28A824DD3C782B4E8E5F6F0F /* en-TEST.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-TEST.json"; path = "Resources/Locales/en-TEST.json"; sourceTree = "<group>"; };
+		75DDCD777914BC0E00B468BC58275827 /* fr.json */ = {isa = PBXFileReference; includeInIndex = 1; name = fr.json; path = Resources/Locales/fr.json; sourceTree = "<group>"; };
 		7B6448DAF0524D4D66EEB511C79C2811 /* Provider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Provider.swift; path = Sources/Fakery/Data/Provider.swift; sourceTree = "<group>"; };
+		88EF5604DD73A751C23C439557334CE4 /* Mockrest-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Mockrest-prefix.pch"; sourceTree = "<group>"; };
 		8F98C4DC1906342A2F0814B71CB0B86C /* Gender.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Gender.swift; path = Sources/Fakery/Generators/Gender.swift; sourceTree = "<group>"; };
-		9016EC556CF16F604B8A02F110905439 /* tr-TR.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = "tr-TR.json"; path = "Resources/Locales/tr-TR.json"; sourceTree = "<group>"; };
+		9016EC556CF16F604B8A02F110905439 /* tr-TR.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "tr-TR.json"; path = "Resources/Locales/tr-TR.json"; sourceTree = "<group>"; };
+		9151BF2CA6FEA0AD67EBCC117EBB18B5 /* Mockrest-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Mockrest-dummy.m"; sourceTree = "<group>"; };
 		91E13B6FA019EF7B8426830E52408DFF /* Number.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Number.swift; path = Sources/Fakery/Generators/Number.swift; sourceTree = "<group>"; };
 		9344385F9AD99162B39F6F0CF2B28244 /* Car.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Car.swift; path = Sources/Fakery/Generators/Car.swift; sourceTree = "<group>"; };
 		9483C56509FB1DA6039192638DC063B9 /* App.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = App.swift; path = Sources/Fakery/Generators/App.swift; sourceTree = "<group>"; };
 		96D3BA035D011E97327B468B5827B5B5 /* Faker.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Faker.swift; path = Sources/Fakery/Faker.swift; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E5C5519CB069EB5A4515C0E82B32F5F /* Internet.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Internet.swift; path = Sources/Fakery/Generators/Internet.swift; sourceTree = "<group>"; };
-		A425E8801E0E989772BE277A54AE5144 /* en-AU.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = "en-AU.json"; path = "Resources/Locales/en-AU.json"; sourceTree = "<group>"; };
-		AF9A14698E786BE666BCFB04788A9CC8 /* en-IND.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = "en-IND.json"; path = "Resources/Locales/en-IND.json"; sourceTree = "<group>"; };
-		B1101470D5066E1FDB728A7739ACF996 /* ja.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = ja.json; path = Resources/Locales/ja.json; sourceTree = "<group>"; };
+		A425E8801E0E989772BE277A54AE5144 /* en-AU.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-AU.json"; path = "Resources/Locales/en-AU.json"; sourceTree = "<group>"; };
+		AF9A14698E786BE666BCFB04788A9CC8 /* en-IND.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-IND.json"; path = "Resources/Locales/en-IND.json"; sourceTree = "<group>"; };
+		B0CE60841955497356D74653B4CE0B6E /* Mockrest.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Mockrest.swift; path = Mockrest/Classes/Mockrest.swift; sourceTree = "<group>"; };
+		B1101470D5066E1FDB728A7739ACF996 /* ja.json */ = {isa = PBXFileReference; includeInIndex = 1; name = ja.json; path = Resources/Locales/ja.json; sourceTree = "<group>"; };
+		B1296C0C887591AE4B756F41991232A1 /* Definitions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Definitions.swift; path = Mockrest/Classes/Definitions.swift; sourceTree = "<group>"; };
 		B36C569F5DA5DE8F7133A1415DFA6709 /* Commerce.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Commerce.swift; path = Sources/Fakery/Generators/Commerce.swift; sourceTree = "<group>"; };
 		B3C7665CE04637D3AB73E4091AA12AE0 /* Pods-Mockrest_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Mockrest_Tests-dummy.m"; sourceTree = "<group>"; };
-		BC2BF1232CF57846911C4EA640198A60 /* ko.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = ko.json; path = Resources/Locales/ko.json; sourceTree = "<group>"; };
+		B513FDE8A868D57C5C819207D67A0439 /* Mockrest.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = Mockrest.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		BC2BF1232CF57846911C4EA640198A60 /* ko.json */ = {isa = PBXFileReference; includeInIndex = 1; name = ko.json; path = Resources/Locales/ko.json; sourceTree = "<group>"; };
 		BDA3BFFBA49B02D077B4AE24FAA8AAE5 /* Pods-Mockrest_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Mockrest_Tests.modulemap"; sourceTree = "<group>"; };
-		C4E35E3B2C85A8277510B36B69BF18EA /* Mockrest-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Mockrest-dummy.m"; sourceTree = "<group>"; };
 		C8AA83635B6DC2F9F87A6A542A9573E0 /* Pods-Mockrest_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Mockrest_Tests-umbrella.h"; sourceTree = "<group>"; };
 		CAAFA3556EDF89BD9A63E3C1165A7354 /* Name.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Name.swift; path = Sources/Fakery/Generators/Name.swift; sourceTree = "<group>"; };
 		CACA587365936CC2E5AFE4C6C179F7FB /* Fakery.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Fakery.modulemap; sourceTree = "<group>"; };
-		CBA9DA9812847EFA5C3DE6E27A8DF315 /* Mockrest.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Mockrest.xcconfig; sourceTree = "<group>"; };
 		D0AD1308EDE891A012B33821DE69BBD7 /* Hobbit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Hobbit.swift; path = Sources/Fakery/Generators/Hobbit.swift; sourceTree = "<group>"; };
 		D2154EA5584E4EBA7C3871DED45423F6 /* Parser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Parser.swift; path = Sources/Fakery/Data/Parser.swift; sourceTree = "<group>"; };
-		D21FAC9C3A840007AA2A9700511E233C /* sv.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = sv.json; path = Resources/Locales/sv.json; sourceTree = "<group>"; };
-		D3899808CB08E82F210DDFC71739E0D4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		D21FAC9C3A840007AA2A9700511E233C /* sv.json */ = {isa = PBXFileReference; includeInIndex = 1; name = sv.json; path = Resources/Locales/sv.json; sourceTree = "<group>"; };
 		D3DBDE92DE972A93A9942F06A12EE52C /* ArrayExtension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ArrayExtension.swift; path = Sources/Fakery/Extensions/ArrayExtension.swift; sourceTree = "<group>"; };
 		D43AA314508CBE3DB1DACD2A70F83B92 /* Fakery-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Fakery-Info.plist"; sourceTree = "<group>"; };
-		D67FCD2DF18F285CF36F97C7FA9DB8D5 /* Mockrest.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Mockrest.modulemap; sourceTree = "<group>"; };
 		D6C29F8E55CE2D193CC9908E9CE12D60 /* Team.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Team.swift; path = Sources/Fakery/Generators/Team.swift; sourceTree = "<group>"; };
-		D7105A281B9359762A7C13B4C030126B /* Mockrest-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Mockrest-umbrella.h"; sourceTree = "<group>"; };
-		DAFCB10F5AF65B587F15C3E6872C021D /* uk.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = uk.json; path = Resources/Locales/uk.json; sourceTree = "<group>"; };
+		DAFCB10F5AF65B587F15C3E6872C021D /* uk.json */ = {isa = PBXFileReference; includeInIndex = 1; name = uk.json; path = Resources/Locales/uk.json; sourceTree = "<group>"; };
 		DDA7527F50CA5BBDDDB729179559C6D5 /* Lorem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Lorem.swift; path = Sources/Fakery/Generators/Lorem.swift; sourceTree = "<group>"; };
 		E1B1C6A169894E0D32E5E49C148576C9 /* Fakery.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Fakery.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1B90FB1EBF2C98913826226CDCA90D1 /* Pods-Mockrest_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Mockrest_Tests-Info.plist"; sourceTree = "<group>"; };
-		E3017D3723CF4A86BD85465CAED1722B /* zh-CN.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = "zh-CN.json"; path = "Resources/Locales/zh-CN.json"; sourceTree = "<group>"; };
+		E3017D3723CF4A86BD85465CAED1722B /* zh-CN.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "zh-CN.json"; path = "Resources/Locales/zh-CN.json"; sourceTree = "<group>"; };
 		EB549FC5EC9F7884205B5DAF6512229C /* Pods-Mockrest_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Mockrest_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		EC35C6069A2A8B571345DA06AE237B25 /* Mockrest-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Mockrest-prefix.pch"; sourceTree = "<group>"; };
-		EDD3C4D8E605C3EB8775D96D7C2155E2 /* en-CA.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = "en-CA.json"; path = "Resources/Locales/en-CA.json"; sourceTree = "<group>"; };
-		F1474BE123F72FF300711D7D /* Definitions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Definitions.swift; path = Mockrest/Classes/Definitions.swift; sourceTree = "<group>"; };
-		F407FCED96090E9178D2756045F9E4F4 /* zh-TW.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = "zh-TW.json"; path = "Resources/Locales/zh-TW.json"; sourceTree = "<group>"; };
-		F806F8F46FC42C41A674E8E47CE184F6 /* fa.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = fa.json; path = Resources/Locales/fa.json; sourceTree = "<group>"; };
-		F891622C8FF60245D477AA6729522CA2 /* nl.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = nl.json; path = Resources/Locales/nl.json; sourceTree = "<group>"; };
-		FAE7C7860C891F45579E0F1583AE8843 /* de-CH.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = "de-CH.json"; path = "Resources/Locales/de-CH.json"; sourceTree = "<group>"; };
+		EDD3C4D8E605C3EB8775D96D7C2155E2 /* en-CA.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "en-CA.json"; path = "Resources/Locales/en-CA.json"; sourceTree = "<group>"; };
+		F407FCED96090E9178D2756045F9E4F4 /* zh-TW.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "zh-TW.json"; path = "Resources/Locales/zh-TW.json"; sourceTree = "<group>"; };
+		F806F8F46FC42C41A674E8E47CE184F6 /* fa.json */ = {isa = PBXFileReference; includeInIndex = 1; name = fa.json; path = Resources/Locales/fa.json; sourceTree = "<group>"; };
+		F891622C8FF60245D477AA6729522CA2 /* nl.json */ = {isa = PBXFileReference; includeInIndex = 1; name = nl.json; path = Resources/Locales/nl.json; sourceTree = "<group>"; };
+		FAE7C7860C891F45579E0F1583AE8843 /* de-CH.json */ = {isa = PBXFileReference; includeInIndex = 1; name = "de-CH.json"; path = "Resources/Locales/de-CH.json"; sourceTree = "<group>"; };
 		FB3B3CF52F3E33DFAEEC5D23830FE305 /* Date.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Date.swift; path = Sources/Fakery/Generators/Date.swift; sourceTree = "<group>"; };
-		FB9EDEF446E3F7D484CA4B8085AFEAA6 /* Faker.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Faker.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		FF501D91B98B2EFDEE64F0EA465B1307 /* Mockrest.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = Mockrest.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		FB9EDEF446E3F7D484CA4B8085AFEAA6 /* Faker.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Faker.bundle; path = "Fakery-Faker.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD437C67968CC9B5F1C7B30B35DFCE32 /* Mockrest.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Mockrest.xcconfig; sourceTree = "<group>"; };
 		FFC353BEB8F13D31EA1A5CB69CEA6765 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
@@ -203,15 +203,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		11A74B4533FBC8DE85DA754648DC070D /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				4B4F7163B99BCD96C680323519495740 /* Fakery.framework in Frameworks */,
-				3E4B95060557F71AF1553F0DF44047D0 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -231,6 +222,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		ECAC287E199E36BC9308AA56CE24A7E7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D9087A545791E6C1DF5CCFB63DEDC2BA /* Fakery.framework in Frameworks */,
+				6795922730FBFE18C8BEF5E539DB357F /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -241,6 +241,20 @@
 				D375E549824033DCBBA063794C80FE55 /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		119B453E5E295C889D7E971476FDB273 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				5E9253A70D98A484985D97F5BF9CACBA /* Mockrest.modulemap */,
+				FD437C67968CC9B5F1C7B30B35DFCE32 /* Mockrest.xcconfig */,
+				9151BF2CA6FEA0AD67EBCC117EBB18B5 /* Mockrest-dummy.m */,
+				217C8A24CE0A04C5BD9E6F953D9242EF /* Mockrest-Info.plist */,
+				88EF5604DD73A751C23C439557334CE4 /* Mockrest-prefix.pch */,
+				48D56EBA91E12055269314004559D4BD /* Mockrest-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/Mockrest";
 			sourceTree = "<group>";
 		};
 		1250364D4F62F587D8BE3B26AC744192 /* Pods-Mockrest_Tests */ = {
@@ -260,16 +274,14 @@
 			path = "Target Support Files/Pods-Mockrest_Tests";
 			sourceTree = "<group>";
 		};
-		262510BEB75C1D311680013FC5CA1923 /* Mockrest */ = {
+		18BEC98384A584884F94CBBC7DCE668F /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				F1474BE123F72FF300711D7D /* Definitions.swift */,
-				537F3C3BCDA05D58EA80F4B93CA6E184 /* Mockrest.swift */,
-				8A3B75FEA9CB2D9BC4AB8854124E3545 /* Pod */,
-				9747A24228A1C94CBFCAC2CEA856A000 /* Support Files */,
+				19886131AF69670FF2460D6FFF1E97AE /* LICENSE */,
+				B513FDE8A868D57C5C819207D67A0439 /* Mockrest.podspec */,
+				4B9256B95DF975B8F0EBB39A4148660E /* README.md */,
 			);
-			name = Mockrest;
-			path = ../..;
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		41A4D4BF90532F6ABE201964CB4BB230 /* Support Files */ = {
@@ -293,24 +305,6 @@
 				F9B1D7DD01A867301E77A6F30F928FF3 /* Fakery */,
 			);
 			name = Pods;
-			sourceTree = "<group>";
-		};
-		773C58121A31A96408ECB5FDB732BD4F /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				262510BEB75C1D311680013FC5CA1923 /* Mockrest */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		8A3B75FEA9CB2D9BC4AB8854124E3545 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				D3899808CB08E82F210DDFC71739E0D4 /* LICENSE */,
-				FF501D91B98B2EFDEE64F0EA465B1307 /* Mockrest.podspec */,
-				3246D770B2A6ED8FFCC32AFA4A04905F /* README.md */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 		8AEA15047A93E69D0613D8D94EF57191 /* Resources */ = {
@@ -354,30 +348,36 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		9747A24228A1C94CBFCAC2CEA856A000 /* Support Files */ = {
+		AF6A286D622B3B5933224155944997DB /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				D67FCD2DF18F285CF36F97C7FA9DB8D5 /* Mockrest.modulemap */,
-				CBA9DA9812847EFA5C3DE6E27A8DF315 /* Mockrest.xcconfig */,
-				C4E35E3B2C85A8277510B36B69BF18EA /* Mockrest-dummy.m */,
-				5C5B1EC8DFD223521D4556E9284D1761 /* Mockrest-Info.plist */,
-				EC35C6069A2A8B571345DA06AE237B25 /* Mockrest-prefix.pch */,
-				D7105A281B9359762A7C13B4C030126B /* Mockrest-umbrella.h */,
+				CF4728E79466A3FC419A6AE594C44D91 /* Mockrest */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/Mockrest";
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				773C58121A31A96408ECB5FDB732BD4F /* Development Pods */,
+				AF6A286D622B3B5933224155944997DB /* Development Pods */,
 				03007C93C4502F18DE8572EFF0BE9D01 /* Frameworks */,
 				4C7ABE96FF9117D9117B7B5FB4242B2A /* Pods */,
 				F664CF82FCA6374D6DF475404A037F94 /* Products */,
 				95B8775C43F299FE47DD82DD45831012 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		CF4728E79466A3FC419A6AE594C44D91 /* Mockrest */ = {
+			isa = PBXGroup;
+			children = (
+				B1296C0C887591AE4B756F41991232A1 /* Definitions.swift */,
+				B0CE60841955497356D74653B4CE0B6E /* Mockrest.swift */,
+				18BEC98384A584884F94CBBC7DCE668F /* Pod */,
+				119B453E5E295C889D7E971476FDB273 /* Support Files */,
+			);
+			name = Mockrest;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		D375E549824033DCBBA063794C80FE55 /* iOS */ = {
@@ -433,6 +433,7 @@
 				8AEA15047A93E69D0613D8D94EF57191 /* Resources */,
 				41A4D4BF90532F6ABE201964CB4BB230 /* Support Files */,
 			);
+			name = Fakery;
 			path = Fakery;
 			sourceTree = "<group>";
 		};
@@ -447,11 +448,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		96F7999900C724E32B79D10FDEFAFB67 /* Headers */ = {
+		6FEB191894C2344AE1E5BC3E7E0A0282 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8B31CE8C6B94DEA00D63DB9837C4BD51 /* Mockrest-umbrella.h in Headers */,
+				B8E472975EE7A796F4A03EEAF83455DB /* Mockrest-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -504,17 +505,17 @@
 		};
 		296DD0D266B5C09623F51AC5B8ACCB76 /* Mockrest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5619F5F497C9AD4E55FF44F90A0A7A37 /* Build configuration list for PBXNativeTarget "Mockrest" */;
+			buildConfigurationList = E848BF1AB8D03D6D10078512EB8EF6B9 /* Build configuration list for PBXNativeTarget "Mockrest" */;
 			buildPhases = (
-				96F7999900C724E32B79D10FDEFAFB67 /* Headers */,
-				E6752A2EF0286BE9EE01BC64B2289509 /* Sources */,
-				11A74B4533FBC8DE85DA754648DC070D /* Frameworks */,
-				5E435E0C091D7BC10C069F0E2A73FB3B /* Resources */,
+				6FEB191894C2344AE1E5BC3E7E0A0282 /* Headers */,
+				F953EB941BFED29DB4C2C8C9AFB9033C /* Sources */,
+				ECAC287E199E36BC9308AA56CE24A7E7 /* Frameworks */,
+				E5F69E39BAB17F25DCEC884D826F30D6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				B6105F324B7154FDB91C8F2072B19CEC /* PBXTargetDependency */,
+				AEB8F7FCC72857CD05BF6DF00B714826 /* PBXTargetDependency */,
 			);
 			name = Mockrest;
 			productName = Mockrest;
@@ -571,13 +572,6 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		5E435E0C091D7BC10C069F0E2A73FB3B /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		695E1770C575B56E7B4B788CA2246A2D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -618,6 +612,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		E5F69E39BAB17F25DCEC884D826F30D6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		EC4F05D15C853491A10752443DA735F3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -644,13 +645,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E6752A2EF0286BE9EE01BC64B2289509 /* Sources */ = {
+		F953EB941BFED29DB4C2C8C9AFB9033C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F1474BE223F72FF300711D7D /* Definitions.swift in Sources */,
-				F212E0791E9C614FCBAF79A0F9C68753 /* Mockrest-dummy.m in Sources */,
-				2213E948B24171488F76E38C78332A85 /* Mockrest.swift in Sources */,
+				97E2C5C49A186C0A7E7BCA47585D49D8 /* Definitions.swift in Sources */,
+				905604120BC7B3F8D5BE9907320FAFAF /* Mockrest-dummy.m in Sources */,
+				E3EF8728099EE70BF91319F78D172454 /* Mockrest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -711,20 +712,22 @@
 			target = 0E0176CCA7C8C85C89BC1E45EA82145D /* Fakery */;
 			targetProxy = DE67E01A0CEEFDB5D3C313E937DB5A46 /* PBXContainerItemProxy */;
 		};
-		B6105F324B7154FDB91C8F2072B19CEC /* PBXTargetDependency */ = {
+		AEB8F7FCC72857CD05BF6DF00B714826 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Fakery;
 			target = 0E0176CCA7C8C85C89BC1E45EA82145D /* Fakery */;
-			targetProxy = 49757E99364D4E7714F8913205958BCD /* PBXContainerItemProxy */;
+			targetProxy = 0C7654C3421AC4AC5B5E07359027DEB7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		1603BE2D3B42E9EEF8F21CA9BDF1DDB0 /* Release */ = {
+		1D29836FF9E1252BDD8DC31199F90EB0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = EB549FC5EC9F7884205B5DAF6512229C /* Pods-Mockrest_Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -736,7 +739,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-Mockrest_Tests/Pods-Mockrest_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-Mockrest_Tests/Pods-Mockrest_Tests.modulemap";
@@ -754,74 +757,11 @@
 			};
 			name = Release;
 		};
-		312D26CEC67D95D49EC4523C10BCAFB6 /* Release */ = {
+		2D0749922840AC8EC1833B550FBD5D0B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1B21E41043ED9717100BD3048B83B7A3 /* Fakery.xcconfig */;
+			baseConfigurationReference = FD437C67968CC9B5F1C7B30B35DFCE32 /* Mockrest.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/Fakery/Fakery-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Fakery/Fakery-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Fakery/Fakery.modulemap";
-				PRODUCT_MODULE_NAME = Fakery;
-				PRODUCT_NAME = Fakery;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		4EFADCA7DBDE494AA3B0335AC83A70BC /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = CBA9DA9812847EFA5C3DE6E27A8DF315 /* Mockrest.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/Mockrest/Mockrest-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Mockrest/Mockrest-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Mockrest/Mockrest.modulemap";
-				PRODUCT_MODULE_NAME = Mockrest;
-				PRODUCT_NAME = Mockrest;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		7F796803AB21C645F3F0BC98B607EADE /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = CBA9DA9812847EFA5C3DE6E27A8DF315 /* Mockrest.xcconfig */;
-			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -849,24 +789,7 @@
 			};
 			name = Debug;
 		};
-		A4F146B64E6DEF8DA5F6C66C1E268257 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1B21E41043ED9717100BD3048B83B7A3 /* Fakery.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Fakery";
-				IBSC_MODULE = Fakery;
-				INFOPLIST_FILE = "Target Support Files/Fakery/ResourceBundle-Faker-Fakery-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = Faker;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
-		};
-		B0087CB4594321EF41619F3181FE120E /* Release */ = {
+		2F55A3566E4E4FC936EAEAB624C33C12 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -914,18 +837,54 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
 		};
-		B8BCBD0110C2658BB5DAADB9B7D97B92 /* Debug */ = {
+		5659C4BF684E7E4E4AD71116E5D3372C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5AEF2A702E7CF9065A02C9698B2C466D /* Pods-Mockrest_Tests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Mockrest_Tests/Pods-Mockrest_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Mockrest_Tests/Pods-Mockrest_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		959DAB4EC1BE4ADE4B22644C3E349521 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -976,7 +935,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -989,40 +948,7 @@
 			};
 			name = Debug;
 		};
-		E4371C99E80344EBD889D38B4075AA24 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5AEF2A702E7CF9065A02C9698B2C466D /* Pods-Mockrest_Tests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-Mockrest_Tests/Pods-Mockrest_Tests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Mockrest_Tests/Pods-Mockrest_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		E6DBB3897D84CBD74D14052A3CCE096B /* Debug */ = {
+		A4F146B64E6DEF8DA5F6C66C1E268257 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1B21E41043ED9717100BD3048B83B7A3 /* Fakery.xcconfig */;
 			buildSettings = {
@@ -1037,12 +963,79 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = bundle;
 			};
-			name = Debug;
+			name = Release;
 		};
-		FEF4DB12AF05DF5974E8B5C9D7D4A51D /* Debug */ = {
+		A920CAF619522C54494B345D84F41B1B /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1B21E41043ED9717100BD3048B83B7A3 /* Fakery.xcconfig */;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Fakery/Fakery-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Fakery/Fakery-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Fakery/Fakery.modulemap";
+				PRODUCT_MODULE_NAME = Fakery;
+				PRODUCT_NAME = Fakery;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		AA7789A9B784123B232F2AE2EABE1C81 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FD437C67968CC9B5F1C7B30B35DFCE32 /* Mockrest.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Mockrest/Mockrest-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Mockrest/Mockrest-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Mockrest/Mockrest.modulemap";
+				PRODUCT_MODULE_NAME = Mockrest;
+				PRODUCT_NAME = Mockrest;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		BD16B626C6F107F548E01798B2DE9676 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1B21E41043ED9717100BD3048B83B7A3 /* Fakery.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1070,23 +1063,31 @@
 			};
 			name = Debug;
 		};
+		E6DBB3897D84CBD74D14052A3CCE096B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1B21E41043ED9717100BD3048B83B7A3 /* Fakery.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Fakery";
+				IBSC_MODULE = Fakery;
+				INFOPLIST_FILE = "Target Support Files/Fakery/ResourceBundle-Faker-Fakery-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = Faker;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B8BCBD0110C2658BB5DAADB9B7D97B92 /* Debug */,
-				B0087CB4594321EF41619F3181FE120E /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		5619F5F497C9AD4E55FF44F90A0A7A37 /* Build configuration list for PBXNativeTarget "Mockrest" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				7F796803AB21C645F3F0BC98B607EADE /* Debug */,
-				4EFADCA7DBDE494AA3B0335AC83A70BC /* Release */,
+				959DAB4EC1BE4ADE4B22644C3E349521 /* Debug */,
+				2F55A3566E4E4FC936EAEAB624C33C12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1094,8 +1095,17 @@
 		B94D6496C5D636266EBDE509EEE5E9D0 /* Build configuration list for PBXNativeTarget "Pods-Mockrest_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E4371C99E80344EBD889D38B4075AA24 /* Debug */,
-				1603BE2D3B42E9EEF8F21CA9BDF1DDB0 /* Release */,
+				5659C4BF684E7E4E4AD71116E5D3372C /* Debug */,
+				1D29836FF9E1252BDD8DC31199F90EB0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E848BF1AB8D03D6D10078512EB8EF6B9 /* Build configuration list for PBXNativeTarget "Mockrest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2D0749922840AC8EC1833B550FBD5D0B /* Debug */,
+				AA7789A9B784123B232F2AE2EABE1C81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1103,8 +1113,8 @@
 		F0F234982B611F2341804EE4085800EA /* Build configuration list for PBXNativeTarget "Fakery" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FEF4DB12AF05DF5974E8B5C9D7D4A51D /* Debug */,
-				312D26CEC67D95D49EC4523C10BCAFB6 /* Release */,
+				BD16B626C6F107F548E01798B2DE9676 /* Debug */,
+				A920CAF619522C54494B345D84F41B1B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

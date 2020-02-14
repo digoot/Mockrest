@@ -10,7 +10,7 @@ import Fakery
 
 public struct Configuration {
 
-    private var faker: Faker
+    internal var faker: Faker
 
     public static var `default`: Configuration {
         get {
